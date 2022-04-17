@@ -31,7 +31,7 @@ if old>=12:
 	time.sleep(2)
 	os.system("clear")
 	print ("")
-	print ("\033[1;96mEH4404 by สคริปต์ หรรษา") 
+	print ("\033[1;96mEH4404 by shadow") 
 	print ("")
 	phone = input("\033[1;93mเบอร์ : \033[91m") 
 	print ("")
